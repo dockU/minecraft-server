@@ -1,7 +1,7 @@
 FROM docku/jre7
 MAINTAINER Jon Chen <bsd@voltaire.sh>
 
-EXPOSE 25565/udp
+EXPOSE 25565
 
 VOLUME ["/srv/minecraft/world"]
 
