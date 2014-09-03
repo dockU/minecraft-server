@@ -6,7 +6,7 @@ Vanilla minecraft server.
 
 ## Exposed Ports
 
-* `25565/udp`
+* `25565`
 
 ## Volumes
 
