@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /srv/minecraft/
+/srv/minecraft/start 2>&1

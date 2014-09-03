@@ -7,3 +7,7 @@ Vanilla minecraft server.
 ## Exposed Ports
 
 * `25565/udp`
+
+## Volumes
+
+* `/srv/minecraft/world`
